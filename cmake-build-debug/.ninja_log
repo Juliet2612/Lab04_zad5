@@ -1,0 +1,11 @@
+# ninja log v5
+0	55	7222671713982063	CMakeFiles/Lab04_zad5.dir/myfun1.c.obj	8414f840e338e3d2
+2	620	7222674303525399	CMakeFiles/Lab04_zad5.dir/main.c.obj	527c046e9bc3a60a
+622	682	7222674304109283	Lab04_zad5.exe	8fcb1c3990a909ec
+2	48	7222676173302270	CMakeFiles/Lab04_zad5.dir/myfun1.c.obj	8414f840e338e3d2
+2	586	7222679150710124	CMakeFiles/Lab04_zad5.dir/main.c.obj	527c046e9bc3a60a
+2	573	7222679500777804	CMakeFiles/Lab04_zad5.dir/main.c.obj	527c046e9bc3a60a
+2	561	7222680145751117	CMakeFiles/Lab04_zad5.dir/main.c.obj	527c046e9bc3a60a
+2	46	7222685469584327	CMakeFiles/Lab04_zad5.dir/myfun1.c.obj	8414f840e338e3d2
+4	562	7222685474735800	CMakeFiles/Lab04_zad5.dir/main.c.obj	527c046e9bc3a60a
+567	628	7222685475359632	Lab04_zad5.exe	8fcb1c3990a909ec
